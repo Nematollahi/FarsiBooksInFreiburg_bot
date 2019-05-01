@@ -1,4 +1,6 @@
 # FarsiBooksInFreiburg_bot
+<div dir="rtl">
+
 بات تلگرامی جهت اطلاع از کتاب‌های فارسی موجود در فرایبورگ
 
 
@@ -9,3 +11,5 @@
 این بات رو اینجا به اشتراک گذاشتم که شاید هم تمایل داشته باشید برای شهری که در اون زندگی می‌کنید چنین امکانی رو فراهم کنید. برای چنین منظوری شما نیاز دارید که دیتابیسی با ساختار زیر درست کنید:
 
 ![alt text](https://github.com/Nematollahi/FarsiBooksInFreiburg_bot/blob/master/database_structure.png)
+
+</div>
