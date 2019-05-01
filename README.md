@@ -1,7 +1,7 @@
 # FarsiBooksInFreiburg_bot
 <div dir="rtl">
 
-:بات تلگرامی جهت اطلاع از کتاب‌های فارسی موجود در فرایبورگ
+بات تلگرامی جهت اطلاع از کتاب‌های فارسی موجود در فرایبورگ
 
 http://t.me/FarsiBooksInFreiburg_bot
 
